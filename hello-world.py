@@ -6,3 +6,5 @@ can sıkıntısından ne yuapacağımı bilemedim,
 valoerant oynar mıasının?
 cigara var mı?
 
+
+bu satır githubdan eklendi.
